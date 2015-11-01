@@ -1,0 +1,23 @@
+name: Moof
+favicon: null
+layout_spectrum: 0.44975336152128875
+typography_spectrum: 0.6517146332189441
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9830408452544361
+  lightness: 0.961368904914707
+  saturation: 0.9844827519264072
+  rhythmicContrast: 0.04805684578604996
+purpose: []
